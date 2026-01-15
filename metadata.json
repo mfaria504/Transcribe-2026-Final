@@ -1,0 +1,5 @@
+{
+  "name": "Transcribe2026 Final",
+  "description": "Drag & drop audio/video transcriber with export to PDF, TXT, and Word capabilities.",
+  "requestFramePermissions": []
+}
